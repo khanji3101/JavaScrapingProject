@@ -3,6 +3,7 @@
   <groupId>com.scraping</groupId>
   <artifactId>scraping</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <dependencies>
     <dependency>
         <groupId>org.jsoup</groupId>
@@ -10,4 +11,5 @@
         <version>1.13.1</version>
     </dependency>
   </dependencies>
+
 </project>
